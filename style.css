@@ -4,27 +4,38 @@
 }
 body{
     font-family: Helvetica;
+    color: white;
+    background-color: gray;
 }
-.banner-text{
+#home{
     width: 100%;
     position: absolute;
 }
-.banner-text ul{
+#menu{
     height: 50px;
     float: right;
+    margin-right: 10%;
 }
-.banner-text ul li{
+#menu li{
     display: inline-block;
     padding: 40px 15px;
     text-transform: lowercase;
     color: white;
     font-size: 20px;
+    
 }
-.banner-text h1{
+#logo{
     text-align: center;
     color: white;
     font-size: 50px;
-    margin-top: 40%;
+    margin-top: 20%;
+}
+footer{
+    text-align: center;
+}
+#credits{
+    text-align: center;
+    font-size: 10px;
 }
 .animation-area{
     background: linear-gradient(to right, #111111, #808080);
