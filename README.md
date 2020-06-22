@@ -1,6 +1,13 @@
 # portifolio
 My webpage
 
+How to use Font Awesome
+How to use Google Fonts
+How to select RGB colors using colors.co
+How to select gradient colors using webgradients.com
+
+
+Website creation tutorial: https://www.youtube.com/watch?v=CrSC1ZA9j0M
 
 References:
 Vectors / Icons for free
