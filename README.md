@@ -1,11 +1,14 @@
 # portifolio
+
 My webpage
 
 How to use Font Awesome
 How to use Google Fonts
 How to select RGB colors using colors.co
 How to select gradient colors using webgradients.com
+https://owlcarousel2.github.io/OwlCarousel2/
 
+Available at this link: https://jteixeir.github.io/portifolio/
 
 Website creation tutorial: https://www.youtube.com/watch?v=CrSC1ZA9j0M
 

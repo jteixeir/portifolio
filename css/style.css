@@ -13,10 +13,10 @@ html, body{
     --text-ligh: #686666da;
     --bg-color: #0f0f0f;
     --white: #ffffff;
-    --midnight: #104f55;
+    --pink: #DF8EC7;
 
     /*theme gradient*/
-    --sky: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+    --sky: linear-gradient(to right, #df89b5 0%, #bfd9fe 100%);
 
     /*theme font-families*/
     --Abel: 'Abel', cursive;
@@ -47,6 +47,15 @@ h1{
     font-size: 2.5rem;
 }
 
+h2{
+    font-family: var(--Lexend);
+}
+
+h3{
+    font-family: var(--Abel);
+    font-size: 1.3rem;
+}
+
 button.btn{
     border: none;
     border-radius: 2rem;
@@ -56,6 +65,9 @@ button.btn{
     cursor: pointer;
 }
 
+span{
+    font-family: var(--Abel);
+}
 /*-- --------- navigation bar -------- --*/
 .nav{
     background: white;
@@ -106,12 +118,8 @@ button.btn{
     font-size: 1.1rem;
 }
 
-.nav .nav-items .nav-link:hover{
-    background-color: var(--midnight);
-}
-
 .nav .nav-items .nav-link:hover a{
-    color: var(--white);
+    color: var(--pink);
 }
 
 .nav .nav-brand a{
@@ -137,7 +145,7 @@ button.btn{
 /*-- --------- main section -------- --*/
 /*-- --------- site title ---------- --*/
 main .site-title{
-    background:url('../assets/background_1.png');
+    background:url('../assets/background.jpg');
     background-size: cover;
     height: 100vh;
     display: center;
@@ -151,6 +159,10 @@ main .site-title .site-background{
     margin: .3rem;
 }
 
+main .site-title h1, h3{
+    margin: 3rem;
+}
+
 main .site-title .btn{
     margin: 1.8rem;
     background: var(--sky);
@@ -161,6 +173,44 @@ main .site-title .btn:hover{
     border: 1px solid var(--white);
     color: var(--white);
 }
+
+/*-- ---------- Blog Carousel ---------- --*/
+main .blog{
+    background: url(../assets/Abract01.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    height: 100vh;
+    width: 100%;
+}
+
+main .blog .blog-post{
+    padding-top: 6rem;
+}
+
+main .blog-post .blog-content{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 80%;
+    margin: 3rem 2rem;
+    box-shadow: 0 15px 20px rgba(0, 0, 0, 0.2);
+}
+
+main .blog-content .blog-title{
+    padding: 2rem 0;
+}
+
+main .blog-content .btn-blog{
+    padding: 0.7rem 2rem;
+    background: var(--sky);
+    margin: 5rem;
+}
+
+main .blog-content span{
+    display: block;
+}
+
+
 /*-- ---------- Viewport less then or equal to 750px ---------- --*/
 
 @media only screen and (max-width:750px){
