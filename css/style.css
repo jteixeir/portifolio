@@ -26,7 +26,7 @@ html, body{
     --Livvic: 'Livvic', cursive;
 }
 
-/*----------- global classes ----------*/
+/*-- --------- global classes -------- --*/
 a{
     text-decoration: none;
     color: var(--text-gray);
@@ -42,12 +42,21 @@ ul{
     list-style-type: none;
 }
 
-/*-------------------------------------*/
+h1{
+    font-family: var(--Lexend);
+    font-size: 2.5rem;
+}
 
+button.btn{
+    border: none;
+    border-radius: 2rem;
+    padding: 1rem 3rem;
+    font-size: 1rem;
+    font-family: var(--Livvic);
+    cursor: pointer;
+}
 
-
-
-/*----------- navigation bar ----------*/
+/*-- --------- navigation bar -------- --*/
 .nav{
     background: white;
     padding: 0 2rem;
@@ -90,10 +99,10 @@ ul{
 }
 
 .nav .nav-items .nav-link{
-    padding: 1.6rem 1rem;
+    padding: 1.6rem 4rem;
     font-size: 1.1rem;
     position: relative;
-    font-family: var(--Abel);
+    font-family: var(--Livvic);
     font-size: 1.1rem;
 }
 
@@ -113,7 +122,6 @@ ul{
     font-size: 1.8rem;
 }
 
-
 .nav .social{
     padding: 1.4rem 0;
 }
@@ -125,11 +133,35 @@ ul{
 .nav .social i:hover{
    color: #a1c4cf; 
 }
-/*-----------------------------------*/
 
+/*-- --------- main section -------- --*/
+/*-- --------- site title ---------- --*/
+main .site-title{
+    background:url('../assets/background_1.png');
+    background-size: cover;
+    height: 100vh;
+    display: center;
+    justify-content: center;
+}
 
+main .site-title .site-background{
+    padding-top: 10rem;
+    text-align: center;
+    color: var(--white);
+    margin: .3rem;
+}
 
-/*------- Viewport less then or equal to 750px*/
+main .site-title .btn{
+    margin: 1.8rem;
+    background: var(--sky);
+}
+
+main .site-title .btn:hover{
+    background: transparent;
+    border: 1px solid var(--white);
+    color: var(--white);
+}
+/*-- ---------- Viewport less then or equal to 750px ---------- --*/
 
 @media only screen and (max-width:750px){
     .nav .nav-menu, .nav-items{

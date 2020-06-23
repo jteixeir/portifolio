@@ -9,6 +9,9 @@ How to select gradient colors using webgradients.com
 
 Website creation tutorial: https://www.youtube.com/watch?v=CrSC1ZA9j0M
 
+
+
+
 References:
 Vectors / Icons for free
 https://www.flaticon.com/home
