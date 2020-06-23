@@ -1,41 +1,37 @@
-# portifolio
+# Portfolio Project
 
-My webpage
+The goal here is to centralize some items:
+- Blog
+- Curriculum
+- Projects
+- Photography
 
-How to use Font Awesome
-How to use Google Fonts
-How to select RGB colors using colors.co
-How to select gradient colors using webgradients.com
-https://owlcarousel2.github.io/OwlCarousel2/
+## References
 
-Available at this link: https://jteixeir.github.io/portifolio/
+So far I am a newbie dev (front-end and back-end), so I used many good references to create this webpage. :sunglasses:
 
-Website creation tutorial: https://www.youtube.com/watch?v=CrSC1ZA9j0M
-
-
-
-
-References:
-Vectors / Icons for free
-https://www.flaticon.com/home
-https://www.flaticon.com/svg-sprites
-https://br.freepik.com/
-
-Cube background animation:
-https://www.youtube.com/watch?v=5RoXCs54CN8
-
-
-Future ideas to this project:
-Fractais / Fibonacci animation
-https://www.youtube.com/watch?v=qNdLYTf6gCo
-https://www.youtube.com/watch?v=4qentQF5Irw
+|Goal           |Link                                                                        |Usage in my webpge                         |
+|---------------|----------------------------------------------------------------------------|-------------------------------------------|
+|Vector / Icons |[Font Awesome](https://fontawesome.com/)                                    |Brand Icons (Instagram, Linkedin,  Github  |
+|Vector / Icons |[Flaticon](https://www.flaticon.com/home)                                   |                                           |
+|Vector / Icons |[Freepik](https://br.freepik.com/)                                          |                                           |
+|Fonts          |[Google Fonts](https://fonts.google.com/)                                   |                                           |
+|Colors         |[Colors.co](http://colors.co/)                                              |                                           |
+|Colors         |[Gradient Colors](https://webgradients.com/)                                |Button colors                              |
+|Banners        |[Owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/)                |                                           |
+|Tutorials      |[Daily Tuition](https://www.youtube.com/watch?v=CrSC1ZA9j0M)                |                                           |
+|Tutorials      |[Divinector](https://www.youtube.com/watch?v=5RoXCs54CN8)                   |                                           |
+|Tutorials      |[W3 Schools](https://www.w3schools.com/default.asp)                         |                                           |
+|Future Ideas   |[Fractais Animation - l1](https://www.youtube.com/watch?v=qNdLYTf6gCo)      |                                           |
+|Future Ideas   |[Fractais Animation - l2](https://www.youtube.com/watch?v=4qentQF5Irw)      |                                           |
 
 
-To learn HTML and CSS:
-https://www.w3schools.com/default.asp
+## Author
+[Jess Teixeira](https://www.linkedin.com/in/jteixeiras/)
 
-Colors:
-https://coolors.co/e9d758-297373-ff8552-e6e6e6-39393a
 
-Icons:
-https://fontawesome.com/kits/7f420c866c/use
+## Access my Webpage 
+
+[My Portfolio Page](https://jteixeir.github.io/portifolio/)
+Hope you like it :blue_heart:
+
