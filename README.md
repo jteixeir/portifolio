@@ -24,7 +24,7 @@ So far I am a newbie dev (front-end and back-end), so I used many good reference
 |Tutorials      |[W3 Schools](https://www.w3schools.com/default.asp)                         |                                           |
 |Future Ideas   |[Fractais Animation - l1](https://www.youtube.com/watch?v=qNdLYTf6gCo)      |                                           |
 |Future Ideas   |[Fractais Animation - l2](https://www.youtube.com/watch?v=4qentQF5Irw)      |                                           |
-
+|Inspirations   |[20 portfolio examples](https://lucianolarrossa.com/exemplos-de-portfolio/) |                                           |
 
 ## Author
 [Jess Teixeira](https://www.linkedin.com/in/jteixeiras/)
